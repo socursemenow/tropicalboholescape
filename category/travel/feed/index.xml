@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Travel &#8211; Tropical Bohol Escape</title>
+	<atom:link href="/category/travel/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 05 Sep 2023 12:37:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/09/cropped-tropical-bohol-escape-logo-32x32.png</url>
+	<title>Travel &#8211; Tropical Bohol Escape</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Beauty in Bohol!</title>
+		<link>/2023/09/05/hello-world/</link>
+					<comments>/2023/09/05/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Tue, 05 Sep 2023 11:16:53 +0000</pubDate>
+				<category><![CDATA[Travel]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Bohol, Philippines, boasts a range of attractions that captivate travelers. The famous Chocolate Hills present an otherworldly landscape, and the Tarsier Sanctuary offers glimpses of the world&#8217;s smallest primates. Panglao Island beckons with its pristine beaches and water sports. The Loboc River Cruise combines relaxation with scenic beauty, and the Blood Compact Shrine echoes a <a class="read-more" href="/2023/09/05/hello-world/">READ MORE</a>]]></description>
+										<content:encoded><![CDATA[
+<p>Bohol, Philippines, boasts a range of attractions that captivate travelers. The famous Chocolate Hills present an otherworldly landscape, and the Tarsier Sanctuary offers glimpses of the world&#8217;s smallest primates. Panglao Island beckons with its pristine beaches and water sports. The Loboc River Cruise combines relaxation with scenic beauty, and the Blood Compact Shrine echoes a significant historical moment. Hinagdanan Cave features an underground pool in a mesmerizing setting, while the Bilar Man-Made Forest forms a unique tree-lined tunnel. Butterfly enthusiasts can visit the Butterfly Conservatory, while thrill-seekers can experience adventure at Danao Adventure Park. To explore even more, consider island-hopping to Pamilacan Island and Balicasag Island for exceptional snorkeling and diving experiences.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/09/05/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
